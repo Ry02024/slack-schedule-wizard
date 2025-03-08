@@ -79,7 +79,7 @@ IssueやPull Requestは歓迎です。バグ報告や機能提案など、お気
 ---
 
 Slack Schedule Wizard を活用して、Slack上での情報共有をよりスムーズにしましょう！
-```
+---
 
 ## ポイント
 
