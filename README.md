@@ -19,7 +19,7 @@ Slack Schedule Wizard は、Slackへのメッセージを指定した日時に�
 
 ## デモ画像 (例)
 
-![Slack Schedule Wizard UI](docs/demo_screenshot.png)
+![Slack Schedule Wizard UI](images/slack-schedule-wizard01.jpg)
 
 ## 必要な環境変数/Secrets
 
