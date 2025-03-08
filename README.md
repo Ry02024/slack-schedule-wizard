@@ -17,7 +17,7 @@ Slack Schedule Wizard は、Slackへのメッセージを指定した日時に�
 - **Streamlitによる直感的UI:**  
   Webブラウザから操作可能なシンプルでわかりやすいUIを備えています。
 
-## デモ画像 (例)
+## デモ画像
 
 ![Slack Schedule Wizard UI](images/slack-schedule-wizard01.jpg)
 
