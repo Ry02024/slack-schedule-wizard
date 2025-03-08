@@ -1,6 +1,3 @@
-# slack-schedule-wizard
-
-```md
 # Slack Schedule Wizard
 
 Slack Schedule Wizard は、Slackへのメッセージを指定した日時に予約投稿できるStreamlitアプリです。  
